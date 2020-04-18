@@ -1,0 +1,27 @@
+.. data_graph documentation master file, created by
+   sphinx-quickstart on Sat Apr 18 07:32:21 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to ``data_graph``'s documentation!
+==========================================
+
+Repository here: `GitLab <https://gitlab.com/zavden/data_scene/-/tree/DataGraph>`_
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   scenes/graph_config
+   scenes/shift_graph
+   scenes/zoom_axes
+   scenes/zoom_camera
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
